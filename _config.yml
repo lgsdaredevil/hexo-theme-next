@@ -366,7 +366,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: eliott
   count: true
 
@@ -375,9 +375,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cytMjXVmJ
+  appkey: prod_4c6cab20c8f4b314af40bb9c30803c45
 
 
 # Valine.
@@ -397,7 +397,7 @@ valine:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+# youyan_uid: cytMjXVmJ
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
