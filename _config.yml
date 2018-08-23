@@ -100,6 +100,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   commonweal: /404.html || heartbeat
+  comments: /comments
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -110,6 +111,7 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  comments: comments
 
 
 # ---------------------------------------------------------------
@@ -415,8 +417,8 @@ gitment:
   language: # Force language, or auto switch by theme
   github_user: lgsdaredevil
   github_repo: myblog
-  client_id: 
-  client_secret: 
+  client_id: b55248a8493d5d76c355
+  client_secret: 6fa8a633b9b9189f08a9f3de9e2c999bb85e5b0b
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
