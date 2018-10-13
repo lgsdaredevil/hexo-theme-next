@@ -417,8 +417,8 @@ gitment:
   language: # Force language, or auto switch by theme
   github_user: lgsdaredevil
   github_repo: myblog
-  client_id: 
-  client_secret: 
+  client_id: b55248a8493d5d76c355
+  client_secret: 6fa8a633b9b9189f08a9f3de9e2c999bb85e5b0b
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
@@ -557,7 +557,7 @@ firestore:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: true
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
