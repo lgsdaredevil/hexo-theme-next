@@ -135,7 +135,7 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/lgsdaredevil/myblog || github
+  GitHub: https://github.com/lgsxiaosen/myblog || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -415,7 +415,7 @@ gitment:
   lazy: true # Comments lazy loading with a button
   cleanly: true # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: lgsdaredevil
+  github_user: lgsxiaosen
   github_repo: myblog
   client_id: b55248a8493d5d76c355
   client_secret: 6fa8a633b9b9189f08a9f3de9e2c999bb85e5b0b
