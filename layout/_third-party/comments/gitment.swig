@@ -9,7 +9,8 @@
     {% else %}
         {% set CommentsClass = "Gitment" %}
         <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+        <!-- <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script> -->
+        <script src="https://www.wenjunjiang.win/js/gitment.js"></script>
     {% endif %}
 <!-- END LOCAL -->
 
