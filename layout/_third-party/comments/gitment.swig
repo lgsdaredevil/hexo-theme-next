@@ -4,7 +4,8 @@
     {% if theme.gitment.mint %}
         {% set CommentsClass = "Gitmint" %}
         <link rel="stylesheet" href="https://www.wenjunjiang.win/css/gitment.css">
-        <script src="https://www.wenjunjiang.win/js/gitment.js"></script>
+        <!-- <script src="https://www.wenjunjiang.win/js/gitment.js"></script> -->
+        <script src="gitmint.browser.js"></script>
     {% else %}
         {% set CommentsClass = "Gitment" %}
         <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
